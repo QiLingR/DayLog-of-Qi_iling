@@ -1,0 +1,50 @@
+h1 {
+  font-weight: bold;
+  font-style: italic;
+  color: #6651ae;
+}
+h2 {
+  text-align: left;
+  margin-left: 5px;
+  font-weight: bold;
+  font-style: italic;
+  color: #6651ae;
+}
+div.newDay>p {
+  color: #3d3067;
+}
+a.error {
+  color: #ff1c2d;
+}
+a.BigError {
+  color: #ffffff;
+  background-color: #ff1c2d;
+  border-radius: 6px;
+}
+a.OpenLog {
+  display: inline-block;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 6px;
+  color: #ffffff;
+  width: 100%;
+  background: #6651ae;
+}
+div.newDay {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  background-color:rgba(242, 242, 242, 0.88);
+}
+h2 {
+  color: #6651ae;
+  margin-top: 20px;
+}
+p.bold {
+  font-weight: bold;
+}
+p.italic {
+  font-style: italic;
+}
